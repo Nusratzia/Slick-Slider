@@ -1,1 +1,1 @@
-# Slick-Slider
+# SLICK-SLIDER
